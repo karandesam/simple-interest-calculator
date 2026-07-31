@@ -1,65 +1,34 @@
 # Simple Interest Calculator
 
-A simple web application that calculates simple interest based on the principal amount, annual interest rate, and time period.
+A calculator that calculates simple interest given principal,
+annual rate of interest and time period.
 
-## Features
+## Usage
 
-- Calculate simple interest instantly
-- User-friendly interface
-- Built using HTML, CSS, and JavaScript
-- Responsive design
+Run the script:
 
-## Formula
+```bash
+bash simple-interest.sh
+```
+
+Enter:
+
+- Principal amount
+- Rate of interest
+- Time period
+
+The script will calculate the simple interest using the formula:
 
 Simple Interest = (Principal × Rate × Time) / 100
 
-## Technologies Used
+## Files
 
-- HTML5
-- CSS3
-- JavaScript
+- simple-interest.sh
+- LICENSE
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- README.md
 
-## How to Run
+## License
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-github-username>/simple-interest-calculator.git
-   ```
-
-2. Open the project folder.
-
-3. Open `index.html` in your web browser.
-
-## Example
-
-**Input**
-
-- Principal: 10000
-- Rate: 5%
-- Time: 2 years
-
-**Output**
-
-```
-Simple Interest = 1000
-```
-
-## Project Structure
-
-```
-simple-interest-calculator/
-│── index.html
-│── style.css
-│── script.js
-│── README.md
-```
-
-## Author
-
-**Samadhan Karande**
-
-Information Technology Student
-
-Java Full Stack Developer
-Bug fix completed.
-Project updated.
+This project is licensed under the Apache License 2.0.
