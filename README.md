@@ -61,3 +61,5 @@ simple-interest-calculator/
 Information Technology Student
 
 Java Full Stack Developer
+Bug fix completed.
+Project updated.
